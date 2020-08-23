@@ -680,5 +680,12 @@
       "inviteCode": "G7Qnnhy",
       "githubUrl": "https://github.com/nestjs"
     }
+    {
+      "logo": "redwoodjs.svg",
+      "title": "RedwoodJS",
+      "quote": "Discord is a great place for the community to have a watercooler style of community chat. From genral to help. Discord is used to help users get up and running with RedwoodJS",
+      "inviteCode": "jjSYEQd",
+      "githubUrl": "https://github.com/redwoodjs/redwood"
+     }
   ]
 }
